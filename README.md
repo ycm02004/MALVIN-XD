@@ -92,7 +92,7 @@ or
 
 **• 1.1 Now deploy.**
     <br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kingmalvn/MALVIN-XD-Heroku) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FMALVIN-XD) 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
  
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
