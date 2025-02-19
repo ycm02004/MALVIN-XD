@@ -94,6 +94,8 @@ or
     <br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kingmalvn/MALVIN-XD-Heroku) 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
+ 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+𝗥𝗔𝗜𝗟𝗪𝗔𝗬+🛰️)](https://git.io/typing-svg)
 
