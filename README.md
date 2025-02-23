@@ -59,7 +59,7 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
 *_You will need a session ID to run the MALVIN-XD. Click the button below to obtain your session ID.if any error in loading site try vpn:_*
 
 <p align="centre">
-<a href='https://malvin-v2-pair-e00a59bbaa23.herokuapp.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Get Pairing Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://malvinv2-pair-e00a59bbaa23.herokuapp.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Get Pairing Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
 
 
