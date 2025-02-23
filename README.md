@@ -1,6 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-> **`Updated To` Version 2.0.0...**
+> **`Updating To` Version 2.0.1...**
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
